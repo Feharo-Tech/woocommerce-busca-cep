@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Compatibilidade com temas que modificam o checkout
 
-## [1.1.1] - 2023-11-15
+## [1.1.1] - 2025-05-22
 
 ### Added
 
@@ -34,7 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correção de bug ao lidar com caracteres especiais
 - Problema com campos de bairro em alguns temas
 
-## [1.1.0] - 2023-10-20
+## [1.1.0] - 2025-05-20
 
 ### Added
 
@@ -54,7 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Problema com cache de navegador
 - Conflito com outros plugins de checkout
 
-## [1.0.0] - 2023-09-01
+## [1.0.0] - 2025-05-18
 
 ### Added
 
