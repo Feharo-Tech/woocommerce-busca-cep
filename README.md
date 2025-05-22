@@ -18,7 +18,7 @@ Plugin para WooCommerce que permite aos clientes buscar o CEP preenchendo o ende
 
 ## 📥 Instalação
 
-1. Baixe o [último release](https://github.com/feharotech/woocommerce-busca-cep/releases)
+1. Baixe o [último release](https://github.com/Feharo-Tech/woocommerce-busca-cep/releases/tag/v1.1.1)
 2. No WordPress, vá em **Plugins > Adicionar Novo > Enviar Plugin**
 3. Faça upload do arquivo ZIP baixado
 4. Ative o plugin
